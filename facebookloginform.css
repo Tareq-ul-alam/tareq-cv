@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.header-details{
+    background-color: #3B5998;
+    background-size:100% ;
+    color:white;
+}
+.bg-color{
+    font-size: 70px;
+    font-weight: bolder;
+    font-family: 'Roboto', sans-serif;
+}
+.clear-div{
+    clear: both;
+}
+.email{
+    text-align:left ;
+    float: right;
+    padding-right: 20px;
+    border-color: black;
+}
+.login{
+    text-align:left ;
+    float: right;
+    margin-right: 400px;
+    margin-top: 20px;
+    
+}
+.emails{
+    text-align:left ;
+    float: right;
+    padding-right: 40px;
+}
+main{
+    background-color: #E9EBEE;
+}
+.card1{
+    float:left;
+    text-align: center;
+    margin-top:20px;
+    margin-left: 0px;
+}
+.card2{
+    float:left;
+    text-align: center;
+    margin-top:20px;
+    margin-left: 30px;
+}
+.card1:hover{
+    box-shadow:2px 4px 6px 2px slategray ;
+    box-sizing: border-box;
+}
+.card2:hover{
+    box-shadow:2px 4px 6px 2px slategray ;
+    box-sizing: border-box;
+}
+.recent-login{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
